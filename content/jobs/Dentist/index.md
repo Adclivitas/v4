@@ -2,7 +2,7 @@
 date: '2023-07-01'
 title: 'Junior Dentist'
 company: 'Dental Clinic (OMFS)'
-location: 'Visakhapatnam'
+location: 'India'
 range: 'Jan - July 2023'
 ---
 

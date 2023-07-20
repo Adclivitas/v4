@@ -5,6 +5,7 @@ company: 'Dental Clinic (OMFS)'
 location: 'India'
 range: 'Jan - July 2023'
 url: 'https://home.cern/'
+showInProjects: true
 ---
 
 - Proficient in patient diagnosis, treatment planning, and execution. 

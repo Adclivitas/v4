@@ -4,6 +4,7 @@ title: 'Dental Assistant'
 company: 'Supraja Dental Clinic'
 location: 'India'
 range: 'Jan 2022 - Jan 2023'
+url: 'https://home.cern/'
 ---
 
 - Engaged in diagnosis, treatment planning, and inventory management. 

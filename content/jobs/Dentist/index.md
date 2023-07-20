@@ -4,6 +4,7 @@ title: 'Junior Dentist'
 company: 'Dental Clinic (OMFS)'
 location: 'India'
 range: 'Jan - July 2023'
+url: 'https://home.cern/'
 ---
 
 - Proficient in patient diagnosis, treatment planning, and execution. 

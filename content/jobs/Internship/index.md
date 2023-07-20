@@ -4,6 +4,7 @@ title: 'Intern'
 company: 'ANIDS'
 location: 'India'
 range: 'Jan - December 2022'
+url: 'https://home.cern/'
 ---
 
 - Comprehensive rotation across 8 departments

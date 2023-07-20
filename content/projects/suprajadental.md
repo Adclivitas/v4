@@ -5,6 +5,7 @@ company: 'Supraja Dental Clinic'
 location: 'India'
 range: 'Jan 2022 - Jan 2023'
 url: 'https://home.cern/'
+showInProjects: true
 ---
 
 - Engaged in diagnosis, treatment planning, and inventory management. 
